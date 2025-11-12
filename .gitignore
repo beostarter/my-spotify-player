@@ -1,0 +1,16 @@
+﻿# Byggede artefakter
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Milj7 filer
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Editor/system
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
